@@ -1,6 +1,6 @@
  <p align="center">
     <a href="https://vuejs.org" target="_blank">
-        <img width="100" src="https://vuejs.org/images/logo.png" alt="Vue logo">
+        <img width="100" src="https://camo.githubusercontent.com/18dbecadeff3c8e810783e10440359c9eeb3edb0cd796ae2eaf52f695a27365e/68747470733a2f2f726f6c6c75706a732e6f72672f726f6c6c75702d6c6f676f2e737667" alt="rollup">
     </a>
 </p>
 
@@ -10,9 +10,8 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-7.3-green" />
-  <img src="https://img.shields.io/badge/MySQL-5.7-green" />
-  <img src="https://img.shields.io/badge/Node.js-12.18.2-green" />
+  <img src="https://img.shields.io/badge/Typescript-^5.1.3-blue" />
+  <img src="https://img.shields.io/badge/rollup-^3.25.1-red" />
 </p>
 
 ---
