@@ -23,4 +23,7 @@ rollup_npm_package是一款基于[rollup](https://github.com/rollup/rollup)搭�
 - 自动化：自动代码压缩，打包文件清除等功能。
 - 支持多端打包：node端、web端、node + Web端都支持打包。
 
-
+---
+说明
+---
+项目只能编译js、ts文件，没有办法使用jsx语法，因此请使用js、ts进行包的封装。
